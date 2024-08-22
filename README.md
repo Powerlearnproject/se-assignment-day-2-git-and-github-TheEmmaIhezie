@@ -39,7 +39,6 @@ Important decision to be made during the process
 2. Repository Structure: Decide how to organize files and directories within the repository.
 3. Licensing: Pick an appropriate license that aligns with your preferences for how others can use your code.
 
-
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 The README file within a GitHub repository serves as the principal point of interaction for individuals engaging with the project, fulfilling a pivotal role in providing essential information about the project to users, contributors, and potential collaborators.
 
