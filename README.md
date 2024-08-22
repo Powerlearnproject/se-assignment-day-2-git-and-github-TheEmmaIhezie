@@ -91,10 +91,10 @@ Advantages
 4.	Compliance: Can be essential for projects that need to adhere to specific regulations.
 
 Disadvantages:
-5.	Collaboration: Restricts the pool of potential contributors.
-6.	Community: May limit the project's exposure and growth.
-7.	Discoverability: Makes it harder for others to find and use the project.
-8.	Cost: Often requires a paid subscription for unlimited private repositories.
+1.	Collaboration: Restricts the pool of potential contributors.
+2.	Community: May limit the project's exposure and growth.
+3.	Discoverability: Makes it harder for others to find and use the project.
+4.	Cost: Often requires a paid subscription for unlimited private repositories.
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
