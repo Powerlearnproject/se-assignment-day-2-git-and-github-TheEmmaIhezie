@@ -16,6 +16,8 @@ GitHub Actions: offer robust automation capabilities, allowing users to create w
 Collaboration is simplified on GitHub, as multiple developers can work together on projects simultaneously. Features like pull requests, code reviews, and issue tracking help teams communicate and manage changes effectively.
 Furthermore, since Git is a distributed version control system, each developer has a complete copy of the project history, enabling offline work and providing redundancy in the event of server failures.
 
+Mainttaining project integrity
+
 Reversibility: In the event that a modification leads to a bug or issue, version control facilitates the seamless reversion to a prior state of the project. This capability serves as a safeguard against potential long-term repercussions resulting from errors.
 Collaboration without Conflict: Through the utilization of branches, multiple developers can concurrently work on distinct segments of the project without encroaching on each other's work. The merging of branches ensures the smooth integration of all modifications.
 Backup and Recovery: The complete history of the project is preserved in the repository, enabling the retrieval of work even in the event of issues arising with the working copy of the project.
@@ -31,6 +33,12 @@ Steps Involved
 5. After creating the repository, you can clone it to your local machine by finding the green "Code" button on the repository's main page, which provides the URL to clone the repository. Use the `git clone [URL]` command in your terminal to clone the repository to your local machine.
 6. Once the repository is cloned, you can start working on your project by navigating into the cloned repository using the `cd` command in your terminal. You can then add files, write code, and create your project structure.
 7. When you make changes or add new files, you'll need to stage them, commit them with a meaningful message, and push them back to GitHub using the `git add .`, `git commit -m "message"`and `git push origin main` commands, respectively.
+
+Important decision to be made during the process
+1. Branching Strategy: Choose a branching model to use, such as Git Flow, GitHub Flow, or another.
+2. Repository Structure: Decide how to organize files and directories within the repository.
+3. Licensing: Pick an appropriate license that aligns with your preferences for how others can use your code.
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
