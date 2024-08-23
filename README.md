@@ -98,6 +98,28 @@ Disadvantages:
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+A commit in Git captures a particular state of your project at a specific time. It records all changes to your files, such as additions, deletions, and updates. This allows you to track your project's history, revert to previous states, collaborate with others, and manage your project's development effectively.
+Step 1: Install Git and Configure Settings
+If Git is not installed on your computer, download and install it. Then, set up your Git username and email to personalize your commits.
+Step 2: Create a GitHub Repository
+Log into GitHub and click the “New” button to start a new repository. Enter a name and an optional description, choose the visibility (public or private), and optionally initialize with a README file. Click “Create repository” to proceed.
+Step 3: Clone the Repository
+From your new repository page on GitHub, click the green Code button and select the URL format you prefer (HTTPS, SSH, or GitHub CLI). Open your terminal, navigate to where you want the repository located, and use the clone command to download it.
+Step 4: Navigate to Your Project
+Access the directory where your repository is cloned.
+Step 5: Stage Changes
+Use Git commands to check the status of your files and stage any changes you've made.
+Step 6: Commit Changes
+Lock in your staged changes by running:
+git commit -m "Your commit message"
+Step 7: Push Changes to GitHub
+Upload your commit to your GitHub repository with:
+git push origin main
+Step 8: Verify Changes on GitHub
+Return to your repository on GitHub to confirm that your changes have been successfully pushed and are visible.
+
+
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
