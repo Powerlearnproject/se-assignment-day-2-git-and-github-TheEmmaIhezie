@@ -99,6 +99,7 @@ Disadvantages:
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 A commit in Git captures a particular state of your project at a specific time. It records all changes to your files, such as additions, deletions, and updates. This allows you to track your project's history, revert to previous states, collaborate with others, and manage your project's development effectively.
+
 Step 1: Install Git and Configure Settings
 If Git is not installed on your computer, download and install it. Then, set up your Git username and email to personalize your commits.
 Step 2: Create a GitHub Repository
